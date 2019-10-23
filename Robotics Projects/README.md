@@ -1,7 +1,7 @@
-Projects completed by #RockemSockemRobots for Robotics
+Projects completed by #RockemSockemRobots for Robotics 
 
-Zak Stratton
-Pablo Vielma
-Russell Pier
-Shaun Fattig
+Zak Stratton <br />
+Pablo Vielma <br />
+Russell Pier <br />
+Shaun Fattig <br />
 Tom King
