@@ -1,0 +1,19 @@
+Changelog:
+Moved display and robot elements down 200 pixels to new panels
+Reset arm3 end coords to run off brushX and brushY
+Renamed some objects (rectangles and control panel labels)
+Adjusted coordinates of Joint Control Panel, Centered panel buttons
+Added world control panel background + buttons
+Added new panel for Parameters
+Moved color picker to parameters panel, changed code for new painted circle to have same radius as brush (instead of hardcoded)
+Add textfield and submission to change size of brush/linked with paint function
+Added skeleton code for continuos painting
+Re-organized code to be better segmented off
+Cleaned up add to scene functions
+Added more comments to specific parts of code
+Removed unnescary imports and auto-generated netbeans comments
+
+Problems/TODO:
+Checkbox is implemented and works, currently when it is checked it will paint continuously but unchecking the box will not reset to "press to paint"
+Buttons on second panel need functionality (skeleton code is implemented)
+Map second paint button (will just need to copy paste painting code, unless someone knows a cleaner way to link two buttons to one action)
